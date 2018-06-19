@@ -1,13 +1,13 @@
 actors:
-  alice:
-    image_url: /images/actors/nrt_nn_400x400.png
+  nrt_nn:
+    image_url: /images/actors/nrt_nn.jpg
     name: nrt_nn
     url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/wktk0_400x400.png
-    name: so a.k.a wktk0
+  wktk0:
+    image_url: /images/actors/wktk0.jpg
+    name: wktk0
     url: http://sns.example.com/bob
-author: @NRT_Nn @wktk0
+author: nrt_nn, wktk0
 description: オールウェイズ惰眠を貪る
 description_long: もう寝ろ
 email: info@example.com
