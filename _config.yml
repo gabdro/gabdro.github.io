@@ -2,11 +2,11 @@ actors:
   nrt_nn:
     image_url: /images/actors/nrt_nn.jpg
     name: nrt_nn
-    url: http://sns.example.com/alice
+    url: https://twitter.com/nrt_nn
   wktk0:
     image_url: /images/actors/wktk0.jpg
     name: wktk0
-    url: http://sns.example.com/bob
+    url: https://twitter.com/wktk0
 author: nrt_nn, wktk0
 description: オールウェイズ惰眠を貪る
 description_long: もう寝ろ
